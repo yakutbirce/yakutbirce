@@ -16,10 +16,9 @@ I'm Birçe Yakut, a Front-End Developer with a passion for creating captivating 
 
 You can reach out to me through:
 
-- LinkedIn: [Birçe Yakut](https://www.linkedin.com/in/birce-yakut/) <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="birceyakut" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/birceyakut?trk=profile-badge">Birçe Yakut</a></div>
-              
-- Twitter: [@yakutbirce](https://twitter.com/yakutbirce)
-- Email: [example@email.com](mailto:example@email.com)
+- LinkedIn: [Birçe Yakut](https://www.linkedin.com/in/birce-yakut/)   
+- Instagram: [@yktbrc]([https://twitter.com/yakutbirce](https://www.instagram.com/yktbrc/))
+- Email: [yakutbirce@gmail.com](mailto:yakutbirce@gmail.com)
 
 ## GitHub Statistics 📊
 

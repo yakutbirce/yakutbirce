@@ -16,8 +16,8 @@ I'm Birçe Yakut, a Front-End Developer with a passion for creating captivating 
 
 You can reach out to me through:
 
-- LinkedIn: [Birçe Yakut](https://www.linkedin.com/in/birce-yakut/)   
-- Instagram: [@yktbrc](https://instagram.com/yktbrc/)
+- LinkedIn: [Birçe Yakut](https://www.linkedin.com/in/birce-yakut/)
+- Instagram: [@yktbrc](https://www.instagram.com/yktbrc/)
 - Email: [yakutbirce@gmail.com](mailto:yakutbirce@gmail.com)
 
 ## GitHub Statistics 📊
